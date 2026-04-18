@@ -10,5 +10,6 @@
 - Struggled with: nothing, it worked first try
 
 ### Day 2: Images + Lists
-- TODO
-
+-Added <img> tag for profile picture
+Created ordered list(<ol>...</ol>) and unordered lists(<ul>...</ul>.
+learned: src attribute, alt text, li tags
