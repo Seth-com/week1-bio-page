@@ -1,7 +1,10 @@
 # 12 Week AI Dev Journey
 
 ## Week 1: HTML Basics
-*Goal*: Build a bio page with name, photo, hobbies, form
+*Goal*: Build a bio page with name, photo, hobbies, form.
+
+## live site
+-https://seth-com.github.io/week1-bio-page/
 
 ### Day 1: Boilerplate
 - Learned <!DOCTYPE>, html, head, body
@@ -15,7 +18,7 @@
 -learned: src attribute, alt text, li tags. src must match filename exactly, alt shows when image breaks.
 
 ### Day 3: Links + Navigation
--Added <a> tags with href.
+-Added anchor tags(<a>) with href.
 -Used terget="_blank" for external    links.
 -Used mailto: for email.
 -Added internal link with id="#hobbies"
