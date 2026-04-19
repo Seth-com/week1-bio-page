@@ -13,3 +13,10 @@
 -Added <img> tag for profile picture
 -Created ordered list(<ol>...</ol>) and unordered lists(<ul>...</ul>|).
 -learned: src attribute, alt text, li tags. src must match filename exactly, alt shows when image breaks.
+
+### Day 3: Links + Navigation
+-Added <a> tags with href.
+-Used terget="_blank" for external    links.
+-Used mailto: for email.
+-Added internal link with id="#hobbies"
+-Learned: href, target attribute, internal page jumps.
