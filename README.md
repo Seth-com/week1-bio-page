@@ -11,5 +11,5 @@
 
 ### Day 2: Images + Lists
 -Added <img> tag for profile picture
-Created ordered list(<ol>...</ol>) and unordered lists(<ul>...</ul>.
-learned: src attribute, alt text, li tags
+-Created ordered list(<ol>...</ol>) and unordered lists(<ul>...</ul>|).
+-learned: src attribute, alt text, li tags. src must match filename exactly, alt shows when image breaks.
