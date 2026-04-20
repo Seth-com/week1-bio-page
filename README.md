@@ -4,7 +4,7 @@
 *Goal*: Build a bio page with name, photo, hobbies, form.
 
 ## live site
--https://seth-com.github.io/week1-bio-page/
+[click hrer to view my bio page]   (https://seth-com.github.io/    week1-bio-page/)
 
 ### Day 1: Boilerplate
 - Learned <!DOCTYPE>, html, head, body
@@ -17,9 +17,13 @@
 -Created ordered list(<ol>...</ol>) and unordered lists(<ul>...</ul>|).
 -learned: src attribute, alt text, li tags. src must match filename exactly, alt shows when image breaks.
 
-### Day 3: Links + Navigation   ## Live Site(https://seth-com.github.io/week1-   bio-page/)
--Added <a> tags with href.
--Used terget="_blank" for external links.
+### Day 3: Links + Navigation
+-Added anchor tags(<a>) with href.
+-Used terget="_blank" for external    links.
 -Used mailto: for email.
 -Added internal link with id="#hobbies"
 -Learned: href, target attribute, internal page jumps.
+
+### Day 4: 
+-I couldn't find my page on the internet though I pushed it to GitHub to be published, a 404 page poped up telling me my page can't be found. So this is what I did; (Deploy a real website with GitHub Pages to the Internet. Make sure pages is enabled in settings. Your filename must be "index.html".)
+-Added CSS Styling to today's work.
