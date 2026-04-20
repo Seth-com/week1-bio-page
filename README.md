@@ -4,7 +4,7 @@
 *Goal*: Build a bio page with name, photo, hobbies, form.
 
 ## live site
-[click hrer to view my bio page]   (https://seth-com.github.io/    week1-bio-page/)
+[click hrer to view my bio page]   ( https://seth-com.github.io/week1-bio-page/)
 
 ### Day 1: Boilerplate
 - Learned <!DOCTYPE>, html, head, body
