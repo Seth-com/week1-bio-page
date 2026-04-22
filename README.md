@@ -1,4 +1,4 @@
-# 12 Week AI Dev Journey
+# 12 Week AI Dev Journey(16/04/2026)
 
 ## Week 1: HTML Basics
 *Goal*: Build a bio page with name, photo, hobbies, form.
@@ -27,3 +27,8 @@
 ### Day 4: 
 -I couldn't find my page on the internet though I pushed it to GitHub to be published, a 404 page poped up telling me my page can't be found. So this is what I did; (Deploy a real website with GitHub Pages to the Internet. Make sure pages is enabled in settings. Your filename must be "index.html".)
 -Added CSS Styling to today's work.
+
+### Day 5: Flex-box Basics for Navbars.
+- nav = container for links.
+- Divs: Is a box, for grouping stuffs. so a div is used when  u want multiple things to move together as a one group.
+- Used display:flex; to arrange items vertical in both div and nav tag.
